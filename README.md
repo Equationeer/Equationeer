@@ -1,3 +1,21 @@
+# 💫 Hi 👋, I'm Alokkumar Gupta
+**A passionate in AI || MERN stack Developer**
+
+Email Me 👉 ✉️ **alokkumar568g@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Gen AI
+- 🌱 **I’m currently learning:** Data Structure and Algorithm
+- 👯 **I’m looking to collaborate on:** MERN stack projects
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** alokkumar568g@gmail.com
+- 😄 **Pronouns:** Alok
+- ⚡ **fact:** What if I loose ,WHAT IF I DON'T
+  
+  <!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div> 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Alokkumar Gupta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alokkumar568g@gmail.com) 
