@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **alokkumar568g@gmail.com** For Collaboration/Project or An
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** alokkumar568g@gmail.com
 - 😄 **Pronouns:** Alok
-- ⚡ **fact:** What if I loose ,WHAT IF I DON'T
+- ⚡ **Me to ME :** What if I loose ,WHAT IF I DON'T
   
   <!-- Snake Game Repo View -->
 
