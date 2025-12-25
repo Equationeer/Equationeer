@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Alokkumar Gupta
-**A passionate in AI || MERN stack Developer**
+**AI Engineer || Full stack Developer**
 
 Email Me 👉 ✉️ **alokkumar568g@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
