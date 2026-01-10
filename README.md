@@ -1,5 +1,8 @@
 # 💫 Hi 👋, I'm Alokkumar Gupta
 **AI Engineer || Full stack Developer**
+### 👁‍🗨 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Equationeer&style=flat-square&color=blue)
+
 
 Email Me 👉 ✉️ **alokkumar568g@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
