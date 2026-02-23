@@ -37,7 +37,6 @@ I'm a passionate **AI Engineer & Full Stack Developer** dedicated to building in
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Equationeer&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
