@@ -45,7 +45,9 @@ I'm a passionate **AI Engineer & Full Stack Developer** dedicated to building in
 
 </div>
 
----
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div> 
 
 ## 🛠️ Tech Weapons in My Arsenal
 
