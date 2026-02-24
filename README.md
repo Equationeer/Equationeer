@@ -1,19 +1,19 @@
-# Alokkumar Gupta
+# Alokkumar Gupta [![Profile Views](https://komarev.com/ghpvc/?username=Equationeer&style=flat-square&color=0E4EFF)](https://github.com/Equationeer)[![GitHub followers](https://img.shields.io/github/followers/Equationeer?style=social&label=Followers)](https://github.com/Equationeer)
 
-**AI Engineer | Full Stack Developer | Problem Solver**
 
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Equationeer&style=flat-square&color=0E4EFF)](https://github.com/Equationeer)
-[![GitHub followers](https://img.shields.io/github/followers/Equationeer?style=social&label=Followers)](https://github.com/Equationeer)
-
-</div>
-
----
+**AI Engineer | Full Stack Developer | Problem Solver**  
 
 ## About Me
 
-I am an aspiring AI Engineer and Full Stack Developer with a passion for building scalable, intelligent applications that address real-world challenges. My technical background spans from Generative AI and Machine Learning to full-stack web development using modern technologies. I am committed to continuous learning and delivering high-quality solutions.
+I am Alokkumar Gupta, a B.Tech undergraduate in Electronics and Telecommunications Engineering with a strong interest in Artificial Intelligence and software development.
+
+I have developed a solid foundation in Data Structures and Algorithms, solving 300+ problems to enhance my problem-solving and analytical skills. Alongside this, I specialize in Full-Stack Development (MERN Stack), building scalable, performance-oriented web applications with secure authentication, optimized APIs, and modern UI/UX practices.
+
+My project experience includes developing a LeetCode-style coding platform with AI integration and a responsive food delivery application, focusing on clean architecture, modular design, and performance optimization.
+
+I am also actively involved in mentoring students in competitive programming and organizing technical events, reflecting my leadership and community engagement.
+
+I am continuously working toward strengthening my expertise in AI-driven systems, system design, and scalable backend architectures to build impactful real-world solutions.
 
 ---
 
