@@ -34,6 +34,12 @@ I am continuously working toward strengthening my expertise in AI-driven systems
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Equationeer&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### 🌟 Featured Repositories
+
+- 🚀 [LEETCODE DAILY QUESTION SOLVING](https://github.com/Equationeer/LEETCODE-DAILY-QUESTION-SOLVING)
+- 💻 [Leetcode Clone](https://github.com/Equationeer/Leetcode_Clone)
+- 🏆 [CodeForces](https://github.com/Equationeer/CodeForces)
+
 ---
 
 ## Let's Connect
