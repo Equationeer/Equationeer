@@ -5,15 +5,7 @@
 
 ## About Me
 
-I am Alokkumar Gupta, a B.Tech undergraduate in Electronics and Telecommunications Engineering with a strong interest in Artificial Intelligence and software development.
-
-I have developed a solid foundation in Data Structures and Algorithms, solving 300+ problems to enhance my problem-solving and analytical skills. Alongside this, I specialize in Full-Stack Development (MERN Stack), building scalable, performance-oriented web applications with secure authentication, optimized APIs, and modern UI/UX practices.
-
-My project experience includes developing a LeetCode-style coding platform with AI integration and a responsive food delivery application, focusing on clean architecture, modular design, and performance optimization.
-
-I am also actively involved in mentoring students in competitive programming and organizing technical events, reflecting my leadership and community engagement.
-
-I am continuously working toward strengthening my expertise in AI-driven systems, system design, and scalable backend architectures to build impactful real-world solutions.
+I am Alokkumar Gupta, a B.Tech undergraduate in Electronics & Telecommunications Engineering with a passion for Artificial Intelligence and Full-Stack Development. I have solved 500+ DSA problems and build scalable MERN stack applications with a focus on performance, clean architecture, and modern UI/UX. My projects include an AI-powered LeetCode-style coding platform and a food delivery application. I also mentor students in competitive programming and actively contribute to technical communities while expanding my expertise in AI, system design, and backend development.
 
 ---
 
@@ -32,10 +24,6 @@ I am continuously working toward strengthening my expertise in AI-driven systems
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Equationeer&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 🌟 Featured Repositories
-
 - 🚀 [LEETCODE DAILY QUESTION SOLVING](https://github.com/Equationeer/LEETCODE-DAILY-QUESTION-SOLVING)
 - 💻 [Leetcode Clone](https://github.com/Equationeer/Leetcode_Clone)
 - 🏆 [CodeForces](https://github.com/Equationeer/CodeForces)
