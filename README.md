@@ -5,7 +5,7 @@
 
 ## About Me
 
-I am Alokkumar Gupta, a B.Tech undergraduate in Electronics & Telecommunications Engineering with a passion for Artificial Intelligence and Full-Stack Development. I have solved 500+ DSA problems and build scalable MERN stack applications with a focus on performance, clean architecture, and modern UI/UX. My projects include an AI-powered LeetCode-style coding platform and a food delivery application. I also mentor students in competitive programming and actively contribute to technical communities while expanding my expertise in AI, system design, and backend development.
+I am Alokkumar Gupta, a B.Tech undergraduate in Electronics & Telecommunications Engineering with a passion for Artificial Intelligence and Full-Stack Development. I have solved 700+ DSA problems and build scalable MERN stack applications with a focus on performance, clean architecture, and modern UI/UX. My projects include an AI-powered LeetCode-style coding platform and a food delivery application. I also mentor students in competitive programming and actively contribute to technical communities while expanding my expertise in AI, system design, and backend development.
 
 ---
 
